@@ -14,6 +14,7 @@ Make sure the input file is named as "input.txt" and placed in the same director
 
 4. Error Handling:
  The program includes error handling using try-catch blocks to handle exceptions gracefully. If any errors occur the program will display an error message.
+
 5.Outputs:
 ![image](https://github.com/Shivanjali-dyapa/Ds-Assignment-1/assets/159505432/db18fda9-0d3a-4816-ad64-a5fd04a86836)
 ![image](https://github.com/Shivanjali-dyapa/Ds-Assignment-1/assets/159505432/d0f7dd85-b2f7-4830-a3e9-0261f05717d5)
